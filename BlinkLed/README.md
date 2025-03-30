@@ -8,6 +8,7 @@ This project demonstrates how to blink an LED using an Arduino board. It is a fu
 ## 📖 Related Blog Posts
 - **[Arduino Dersleri #2: Arduino ile Led Yakmak – Blink Uygulaması](https://maker.robotistan.com/arduino-ders-1-led-yakip-sondurme-blink/?utm_source=youtube&utm_medium=kart)**
 - **[Direnç Nedir? Direnç Renk Kodları, Hesaplama ve Çeşitleri](https://maker.robotistan.com/direnc/?utm_source=youtube&utm_medium=kart)**
+  
 ![image](https://github.com/user-attachments/assets/3b015818-fb68-4eea-993a-eebb28b6493d)
 
 ## 📝 Description
