@@ -19,7 +19,7 @@ This lesson covers:
 ## 🔧 Requirements
 - Arduino board (Uno, Mega, etc.)
 - LED
-- 220Ω resistor
+- 330Ω resistor
 - Jumper wires
 
 Upload the code and watch your LED blink!
